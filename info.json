@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f029081bc45e7b3f8ebb730a6f828e38549adbbd",
+    "author": "John Blischak <jdblischak@gmail.com>",
+    "time": "2020-11-19 15:04:36",
+    "files": 1,
+    "merge": false,
+    "message": "Explicitly pass macros=NULL to tools::loadPkgRdMacros(). (#57)\n\nThis is for backwards compatibility with R 3.2."
+  },
+  "remote": "https://github.com/ropensci/spelling",
+  "pkg": "spelling"
+}
