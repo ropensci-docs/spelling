@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "81cb940792f58442c803ecd7115392e1a2a8e509",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-03-04 18:03:06",
+    "files": 1,
+    "merge": false,
+    "message": "Add url\n"
+  },
+  "repo": "https://github.com/ropensci/spelling",
+  "pkg": "spelling"
+}

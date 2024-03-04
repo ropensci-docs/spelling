@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/spelling/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/spelling/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/spelling/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/spelling/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/spelling/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/spelling/reference/spell_check_files.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/spelling/reference/spell_check_package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/spelling/reference/wordlist.html</loc>
+  </url>
+</urlset>
