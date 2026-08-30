@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4fdb6c350ae962c142d4e1d9b5261cb14c251b52",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2025-10-17T12:12:37Z",
+    "files": 6,
+    "merge": false,
+    "message": "Add hook for CMD check\n"
+  },
+  "repo": "https://github.com/ropensci/spelling",
+  "pkg": "spelling",
+  "time": "2026-08-30T07:33:27Z"
+}
